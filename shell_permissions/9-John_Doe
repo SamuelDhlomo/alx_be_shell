@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod -rwxr-x-wx touch hello
+#!/bin/bash 
+ -rwxr-x-wx
